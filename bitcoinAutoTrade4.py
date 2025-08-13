@@ -6,8 +6,8 @@ import numpy as np
 import schedule
 
 # ⚠️ 여기에 본인의 업비트 API 키를 입력하세요.
-access = "GMH92MQLFAxMSqbx0dpxEMn6qSrfxxQQYvi4zpaV"
-secret = "0W0tCfbgwgfdQ5zDmdtvAyCeERE2KbMx03oSxCiX"
+access = ""
+secret = ""
 
 # --- 기술적 분석 지표 계산 함수 ---
 
